@@ -16,10 +16,10 @@ This project is perfect for demonstrating practical knowledge of SQL querying, K
 <a href ="https://github.com/darshant15/PizzaHut_Sales_Project/commit/10b6fb11c35c021d0b2d0620f68ae5f461da6e7e"> Dashboard  </a>
 
 ## SQL QUERY OUTPUTS
-<a href ="https://github.com/darshant15/PizzaHut_Sales_Project/commit/10b6fb11c35c021d0b2d0620f68ae5f461da6e7e"> SQL QUERY O/P </a>
+<a href ="https://github.com/darshant15/PizzaHut_Sales_Project/commit/10b6fb11c35c021d0b2d0620f68ae5f461da6e7e"> SQL Query O/P </a>
 
 ## INSIGHTS OF EXCEL
-<a href ="https://github.com/darshant15/PizzaHut_Sales_Project/commit/fa1da04966c198f2e625811ac83cdf081ce669f7">INSIGHTS OF EXCEL</a>
+<a href ="https://github.com/darshant15/PizzaHut_Sales_Project/commit/fa1da04966c198f2e625811ac83cdf081ce669f7">Insight of excel </a>
 
 ## Objectives
 
