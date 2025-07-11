@@ -82,3 +82,37 @@ Key Performance Indicators (KPIs) were calculated using SQL and Excel to summari
 
 
 4. Total Orders: Total number of orders placed by customers.
+
+
+# Pizza Sales Data – Chart Requirements Summary
+
+1. Daily Orders Trend (Bar Chart)
+Visualize total orders per day to spot daily patterns and fluctuations.
+
+
+2. Hourly Orders Trend (Line Chart)
+Show total orders by hour to identify peak ordering times.
+
+
+3. Sales % by Pizza Category (Pie Chart)
+Display the sales share of each pizza category to assess popularity.
+
+
+4. Sales % by Pizza Size (Pie Chart)
+Show how sales are distributed across different pizza sizes.
+
+
+5. Total Pizzas Sold by Category (Funnel Chart)
+Compare total pizzas sold across categories to evaluate performance.
+
+
+6. Top 5 Best Sellers (Bar Chart)
+Highlight the 5 most sold pizzas by quantity.
+
+
+7. Bottom 5 Worst Sellers (Bar Chart)
+Identify the 5 least sold pizzas by quantity.
+
+
+
+   
