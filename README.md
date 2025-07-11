@@ -1,13 +1,13 @@
-** PizzaHut Sales Data Analysis Project
+* PizzaHut Sales Data Analysis Project
 
 📊 End-to-End Data Analytics Portfolio Project using SQL Server and Excel
 
-𞷬️ Project Overview
+* PROJECT OVERVEIW
 
 This is a real-world data analysis project built using SQL Server and Microsoft Excel based on a PizzaHut sales dataset. The goal was to derive meaningful business insights by analyzing sales performance, identifying customer preferences, and understanding ordering patterns. The project was inspired by the “Data Analyst Portfolio Project” series by Alex the Analyst, and it covers the complete workflow of data analysis—from raw data to interactive dashboards.
 
 This project is perfect for demonstrating practical knowledge of SQL querying, KPI development, and data visualization using Excel. It simulates tasks typically performed by entry-level and intermediate data analysts in real-world roles.
-
+ 
 ✅ Objectives
 
 The primary objectives of this project were:
