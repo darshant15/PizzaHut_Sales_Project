@@ -29,38 +29,46 @@ The primary objectives of this project were:
 
 Tool	Purpose
 
-SQL Server (SSMS)	         For querying, aggregating, joining, and analyzing raw sales data
+SQL Server (SSMS)	   =      For querying, aggregating, joining, and analyzing raw sales data
 
 
-Microsoft Excel	           For data visualization, dashboards, KPI representation
+Microsoft Excel	      =     For data visualization, dashboards, KPI representation
 
 
-GitHub	                    Documentation and project showcase
+GitHub	              =      Documentation and project showcase
 
 
 
-🧠 Skills Practiced
+# Skills Practiced
 
-SQL (DQL, DML, Joins, Aggregation, CASE, GROUP BY)
+SQL (DQL, DML, Joins, Aggregation, CASE, GROUP BY)  
+
 
 Excel Charts and Dashboarding
 
+
 KPI Analysis & Business Thinking
+
 
 Trend Analysis & Customer Segmentation
 
+
 Data Cleaning & Preprocessing
+
 
 Storytelling with Data
 
+
 Funnel, Bar, Line & Pie Chart Creation
 
+
 Problem Statement Decomposition
+
 
 Time Series Trend Identification (Daily & Hourly)
 
 
-📊 KPIs Calculated
+# KPIs Calculated
 
 Key Performance Indicators (KPIs) were calculated using SQL and Excel to summarize business health and performance:
 
