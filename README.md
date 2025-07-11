@@ -12,8 +12,8 @@ This project is perfect for demonstrating practical knowledge of SQL querying, K
 ## Dataset Used (excel)
 <a href ="https://github.com/darshant15/PizzaHut_Sales_Project/blob/main/pizzahut_sales%20excel%20file.xlsx">Dataset(Excel)</a>
 
-## Dataset Used 
-<a href ="">Dataset</a>
+## Dataset Used (SQL)
+<a href ="https://github.com/darshant15/PizzaHut_Sales_Project/blob/main/pizzaput_sales.csv">Dataset(SQL)</a>
 
 
 ## Dashboard Interaction   
