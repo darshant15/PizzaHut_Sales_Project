@@ -122,5 +122,13 @@ Highlight the 5 most sold pizzas by quantity.
 Identify the 5 least sold pizzas by quantity.
 
 
+# Final Conclusion
+This project served as a hands-on application of core data analytics concepts using a realistic PizzaHut sales dataset. By leveraging SQL Server for querying and Microsoft Excel for dashboarding, I was able to extract actionable insights that mimic real-world business decision-making scenarios. From KPI calculation and time-based trend analysis to identifying customer preferences and product performance, this project strengthened my ability to turn raw data into meaningful stories.
+
+It not only reinforced my technical skills in SQL and Excel, but also improved my analytical thinking, problem-solving, and data storytelling capabilities. This project stands as a key addition to my analytics portfolio and reflects my readiness for entry-level data analyst roles in fast-paced business environments.
+
+
+
+
 
    
