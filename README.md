@@ -8,9 +8,9 @@ This is a real-world data analysis project built using SQL Server and Microsoft 
 
 This project is perfect for demonstrating practical knowledge of SQL querying, KPI development, and data visualization using Excel. It simulates tasks typically performed by entry-level and intermediate data analysts in real-world roles.
 
-## Dataset Used 
-<a href ="://github.com/darshant15/Data-Analysis-Dashboard-On-Swiggy-Instamart-Sales-Report/blob/76f883cdf9723789df180872da9b7de1a4807de2/Swiggy%20Instamart%20Grocery%20Data%20Excel.xlsx">Dataset</a>
 
+## Dataset Used 
+<a href ="https://github.com/darshant15/PizzaHut_Sales_Project/blob/main/pizzahut_sales%20excel%20file.xlsx">Dataset</a>
 
 ## Dashboard Interaction   
 <a href ="https://github.com/darshant15/PizzaHut_Sales_Project/commit/10b6fb11c35c021d0b2d0620f68ae5f461da6e7e"> Dashboard  </a>
