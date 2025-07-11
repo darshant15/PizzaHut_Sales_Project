@@ -13,9 +13,10 @@ This project is perfect for demonstrating practical knowledge of SQL querying, K
 
 
 ## Dashboard Interaction 
-<a href ="://github.com/darshant15/Data-Analysis-Dashboard-On-Swiggy-Instamart-Sales-Report-/blob/25ace7a8ee35a2192c2ebb2b2da1a45131f6bc2c/DASHBOARD(SWIGGY).png">Darshboard</a>
 
- 
+## INSIGHTS 
+<a href ="https://github.com/darshant15/PizzaHut_Sales_Project/commit/fa1da04966c198f2e625811ac83cdf081ce669f7">Darshboard</a>
+
 ## Objectives
 
 The primary objectives of this project were:
